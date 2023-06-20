@@ -1,5 +1,6 @@
 local mods = {
 	4575740202,-- 9kbears
+	2702734830,-- Sparz
 }
 function loadlol()
 	for _,Player in pairs(game:GetService('Players'):GetChildren()) do
